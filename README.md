@@ -62,7 +62,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/DimasEPS/DimasEPS/output/snake.svg" alt="Snake animation" />
-
-###
